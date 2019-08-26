@@ -229,4 +229,4 @@ Edits the password of the logged in Employee if the token and correct informatio
 ### - Cristina Laryea [@crispad](https://github.com/crispad)
 ### - Aquila Strother [@astro11](https://github.com/astro11)
 ### - Ajmal Jalal [@ajmaljalal](https://github.com/Ajmaljalal)
-### - Habib-ur-Rehman [@habib1234731](https://github.com/habib1234731)
+### - Habib-ur-Rehman [@hbr731](https://github.com/hbr731)
